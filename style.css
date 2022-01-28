@@ -1,0 +1,144 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+h1{font-size: 60px;
+}
+.tomato-color{
+    color: tomato;
+   margin-top:60px;
+}
+.figure-0 img{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 13%;
+}
+.hyperlink-button{text-decoration: none;
+  background-image: linear-gradient(tomato,salmon);
+padding: 10px 40px;
+color: white;
+border-radius: 5px;
+font-weight:400;
+
+
+
+}
+.upper-part{
+    display: flex;
+}
+.half-width{
+width: 50%;
+margin-left: 10%;
+margin-top: 5%;
+
+
+}
+.scroll-down{
+    margin-top: 40px;
+}
+.figure{
+    padding-left: 70px;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.border-line{
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato,salmon);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+#my-mission-color{color: rgb(44, 15, 44);}
+#year-color{
+    color: tomato;
+}
+.center
+{text-align: center;
+margin-top: 5%;}
+
+.middle-part{
+    display: flex;
+    margin: 0 80px 0 80px;
+
+}
+.item-content-0{
+    width: 33%;
+     margin: 0 35px 0 25px;
+    background-color:lightblue;
+    padding: 30px;
+    border-radius: 15px;
+   
+}
+.item-content-1{
+    width: 33%;
+    margin: 0 10px 0 0;
+    background-color:rgb(173, 177, 230);
+    padding: 30px;
+    border-radius: 15px;
+    
+}
+.item-content-2{
+    width: 33%;
+     margin: 0px 25px;
+    background-color:salmon;
+    padding: 30px;
+    border-radius: 15px;
+
+}
+.image-width{
+    width: 40%;
+}
+
+.lower-middle-part{
+    display: flex;
+    margin: 10% 0 55px 40px;
+    
+    
+}
+.background-image img{
+    width:480px;
+ margin: 5% 0px 0px 22%; 
+
+   
+}
+#x{margin-left: 70px;
+background-image: url(pictures/img.jpg);
+background-size: 250px;
+background-repeat: no-repeat;
+background-position: left;}
+
+.y{
+    padding-right: 10%;
+    margin-left:12%;
+    margin-top: 5%;
+    
+}
+h2{
+    font-size: 50px;
+}
+.global-community-part{
+    margin: 0px 100px 0px 200px;
+   
+
+}
+.meeting-image img{
+    width: 90%;
+}
+.last-part{
+display: flex; 
+margin-bottom: 50px;
+}
+.meeting-image{
+    margin-right: 20px;
+    background-image: url(pictures/img.jpg);
+    background-repeat: no-repeat;
+    background-position:right bottom ;
+    background-size: 150px;
+    background-position: 30px 0px 0px 70px;
+    padding-bottom: 60px;
+    padding-right: 20px;
+   
+}
